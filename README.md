@@ -3,9 +3,11 @@
 Project Link: https://lookerstudio.google.com/s/lfg20UZkBfQ
 
 📌 Project Overview:
+
 This project delivers an interactive sales analytics dashboard for Zepto using Google Looker Studio. It transforms raw transactional data into actionable insights by applying data cleaning, modeling, KPI calculations, and advanced visualizations to evaluate sales, customer behavior, and delivery performance.
 
 🎯 Business Objectives:
+
 Measure sales and revenue performance across time dimensions
 Analyze customer purchase behavior and order distribution
 Identify top-performing cities and product categories
